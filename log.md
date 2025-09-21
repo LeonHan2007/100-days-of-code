@@ -6,4 +6,4 @@
 
 **Thoughts:** Since I have prior experience with HTML, this project was pretty simple for me, but I wanted to start from the ground up to build a solid foundational understanding.
 
-**Link to work:** [Project Repo]([http://www.example.com](https://github.com/LeonHan2007/odin-recipes))
+**Link to work:** [Project Repo](https://github.com/LeonHan2007/odin-recipes)
