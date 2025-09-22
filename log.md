@@ -7,3 +7,11 @@
 **Thoughts:** Since I have prior experience with HTML, this project was pretty simple for me, but I wanted to start from the ground up to build a solid foundational understanding.
 
 **Link to work:** [Project Repo](https://github.com/LeonHan2007/odin-recipes)
+
+### Day 1: Sept 21, 2025
+
+**Today's Progress**: Did a couple of basic CSS exercises online.
+
+**Thoughts:** I never properly learned CSS before, so these easy exercises helped me gain a good base understanding so I don't have to use AI for everything.
+
+**Link to work:** [Project Repo](https://github.com/LeonHan2007/css-exercises)
