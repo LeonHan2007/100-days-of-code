@@ -15,3 +15,11 @@
 **Thoughts:** I never properly learned CSS before, so these easy exercises helped me gain a good base understanding so I don't have to use AI for everything.
 
 **Link to work:** [Project Repo](https://github.com/LeonHan2007/css-exercises)
+
+### Day 2: Sept 22, 2025
+
+**Today's Progress**: Started a new personal project - building a workout app.
+
+**Thoughts:** This is my first project that might actually be useful, I built the basic framework, and I plan to add more functionalities tomorrow.
+
+**Link to work:** [Project Repo](https://github.com/LeonHan2007/Workout-App)
