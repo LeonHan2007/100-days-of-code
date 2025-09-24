@@ -23,3 +23,11 @@
 **Thoughts:** This is my first project that might actually be useful, I built the basic framework, and I plan to add more functionalities tomorrow.
 
 **Link to work:** [Project Repo](https://github.com/LeonHan2007/Workout-App)
+
+### Day 3: Sept 23, 2025
+
+**Today's Progress**: Worked on the workout app. Implemented python back-end CRUD functions. 
+
+**Thoughts:** Had to switch from HarperDB because it's not free, but I'm happy about my progress.
+
+**Link to work:** [Project Repo](https://github.com/LeonHan2007/Workout-App)
