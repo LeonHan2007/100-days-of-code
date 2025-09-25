@@ -31,3 +31,11 @@
 **Thoughts:** Had to switch from HarperDB because it's not free, but I'm happy about my progress.
 
 **Link to work:** [Project Repo](https://github.com/LeonHan2007/Workout-App)
+
+### Day 4: Sept 24, 2025
+
+**Today's Progress**: Worked on the workout app. Implemented user accounts and authentication.
+
+**Thoughts:** Pretty cool that I actually used something I learned from high school. Now I need to implement an actual database that persists. 
+
+**Link to work:** [Project Repo](https://github.com/LeonHan2007/Workout-App)
