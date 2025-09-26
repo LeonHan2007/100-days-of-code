@@ -39,3 +39,12 @@
 **Thoughts:** Pretty cool that I actually used something I learned from high school. Now I need to implement an actual database that persists. 
 
 **Link to work:** [Project Repo](https://github.com/LeonHan2007/Workout-App)
+
+### Day 5: Sept 25, 2025
+
+**Today's Progress**: Worked on the workout app. Connected to AWS RDS database.
+
+**Thoughts:** This took the whole day and was such a pain. It was annoying but I think I finally got it to work.
+
+**Link to work:** [Project Repo](https://github.com/LeonHan2007/Workout-App)
+
