@@ -48,3 +48,11 @@
 
 **Link to work:** [Project Repo](https://github.com/LeonHan2007/Workout-App)
 
+### Day 6: Sept 26, 2025
+
+**Today's Progress**: Worked on the workout app. Deployed it to streamlit. Now fully functional.
+
+**Thoughts:** I guess this marks the completion of my first project, although I'd like to continue developing it and adding more features. Right now it's a pretty bare-bones app, but it works.
+
+**Link to work:** [App Link](https://skibfit.streamlit.app)
+
