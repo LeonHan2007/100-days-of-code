@@ -56,3 +56,11 @@
 
 **Link to work:** [App Link](https://skibfit.streamlit.app)
 
+### Day 7: Sept 27, 2025
+
+**Today's Progress**: Finished the Odin CSS foundational exercises.
+
+**Thoughts:** I forgot the syntax for chaining and grouping elements, but I eventually figured it out.
+
+**Link to work:** [Project Repo](https://github.com/LeonHan2007/css-exercises)
+
