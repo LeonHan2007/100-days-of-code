@@ -64,3 +64,11 @@
 
 **Link to work:** [Project Repo](https://github.com/LeonHan2007/css-exercises)
 
+### Day 8: Sept 28, 2025
+
+**Today's Progress**: Updated my workout app again.
+
+**Thoughts:** Made some improvements to the responsiveness when making changes. Improved update button.
+
+**Link to work:** [App Link](https://skibfit.streamlit.app)
+
