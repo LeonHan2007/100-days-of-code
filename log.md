@@ -72,3 +72,11 @@
 
 **Link to work:** [App Link](https://skibfit.streamlit.app)
 
+### Day 9: Sept 29, 2025
+
+**Today's Progress**: Introduced myself to Figma, started revamping the UI for my workout app.
+
+**Thoughts:** It feels nice actually making decent-looking front-end stuff, but so far I'm just experimenting. I hope to finish the design soon and learn how to integrate it with my app.
+
+**Link to work:** [App Link](https://skibfit.streamlit.app)
+
