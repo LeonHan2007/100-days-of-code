@@ -80,3 +80,26 @@
 
 **Link to work:** [App Link](https://skibfit.streamlit.app)
 
+### Day 10: Sept 30, 2025
+
+**Today's Progress**: Worked on Figma UIs
+
+**Thoughts:** This stuff is harder than it looks. I also have no idea how to connect the frontend to the backend without an API.
+
+**Link to work:** [App Link](https://skibfit.streamlit.app)
+
+### Day 11: Oct 1, 2025
+
+**Today's Progress**: Gave up on Figma, improved SkibFit
+
+**Thoughts:** I spent so much time designing Figma stuff I wanted to return to backend coding, so I improved the editing feature on the webapp.
+
+**Link to work:** [App Link](https://skibfit.streamlit.app)
+
+### Day 12 Oct 2, 2025
+
+**Today's Progress**: Improved the mobile screen UI
+
+**Thoughts:** Didn't do much today, just fixed the mobile version of the UI.
+
+**Link to work:** [App Link](https://skibfit.streamlit.app)
