@@ -103,3 +103,11 @@
 **Thoughts:** Didn't do much today, just fixed the mobile version of the UI.
 
 **Link to work:** [App Link](https://skibfit.streamlit.app)
+
+### Day 13 Oct 3, 2025
+
+**Today's Progress**: Did some ML stuff.
+
+**Thoughts:** Implemented PyTorch, trained a simple model to detect drawn numbers on a grid.
+
+**Link to work:** [Project Repo](https://github.com/LeonHan2007/digit_classifier)
