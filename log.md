@@ -111,3 +111,19 @@
 **Thoughts:** Implemented PyTorch, trained a simple model to detect drawn numbers on a grid.
 
 **Link to work:** [Project Repo](https://github.com/LeonHan2007/digit_classifier)
+
+### Day 14 Oct 4, 2025
+
+**Today's Progress**: Skibfit 
+
+**Thoughts:** Fixed some bugs with the mobile compatibility.
+
+**Link to work:** [App Link](https://skibfit.streamlit.app)
+
+### Day 15 Oct 5, 2025
+
+**Today's Progress**: Skibfit
+
+**Thoughts:** Started programming the feature to group different exercises to make workouts.
+
+**Link to work:** [App Link](https://skibfit.streamlit.app)
